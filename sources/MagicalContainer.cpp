@@ -104,7 +104,7 @@ namespace ariel{
     endIdx(0),
     isBeginning(true){} // by default, it is the beginning
     
-        // Default constructor for PrimeIterator
+    // Default constructor for PrimeIterator
     MagicalContainer::PrimeIterator::PrimeIterator() : 
     iterScope(*(new MagicalContainer())), 
     curIdx(0) {} // default current index is 0

@@ -74,5 +74,5 @@ To simplify the implementation, we will ignore the case where an iterator points
 </div>
 
 אין לשנות קבצים קיימים אלא רק להוסיף קבצים חדשים.
-
+כחלק מהנחיות ונהלי הקורס עליי להודיע באופן מפורש וכתוב כי נעזרתי במורה פרטי בכתיבת מטלה זאת.
 בהצלחה
